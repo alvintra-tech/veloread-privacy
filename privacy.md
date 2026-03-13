@@ -152,5 +152,6 @@ The most recent version will always include the **latest revision date**.
 
 Developer: **Alvintra**  
 Application: **VeloRead**
+Contact: privacy@alvintra.com
 
 If you have questions regarding this Privacy Policy, you may contact the developer through the **Google Play Store app listing**.
